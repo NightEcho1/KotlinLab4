@@ -1,0 +1,1 @@
+<resources><style name="Theme.Lab" parent="Theme.Lab.Base"><item name="android:windowOptOutEdgeToEdgeEnforcement">true</item></style></resources>

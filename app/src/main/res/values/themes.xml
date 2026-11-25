@@ -1,0 +1,8 @@
+<resources>
+<style name="Theme.Lab.Base" parent="Theme.AppCompat.Light.NoActionBar">
+<item name="colorPrimary">#512DA8</item><item name="colorAccent">#512DA8</item>
+<item name="android:fontFamily">sans</item><item name="android:windowLightStatusBar">true</item>
+<item name="android:statusBarColor">#FFFFFF</item><item name="android:navigationBarColor">#212121</item>
+</style>
+<style name="Theme.Lab" parent="Theme.Lab.Base"/>
+</resources>

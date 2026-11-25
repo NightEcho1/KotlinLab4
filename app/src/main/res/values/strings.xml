@@ -1,0 +1,29 @@
+<resources>
+    <string name="students">Мокринский, Малахов, Ершова • МИБ-2512</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="wrong_credentials">Неправильные данные!</string>
+    <string name="locked">Вход заблокирован!!!</string>
+    <string name="attempts">Осталось попыток: %1$d</string>
+    <string name="empty_field">Заполните поле</string>
+    <string name="read">Прочитать</string>
+    <string name="write">Записать</string>
+    <string name="clear">Очистить</string>
+    <string name="saved">Данные сохранены</string>
+    <string name="io_error">Ошибка чтения или записи файла</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="save_password">Сохранить пароль</string>
+    <string name="password_saved">Пароль сохранён</string>
+    <string name="back">Назад</string>
+    <string name="student_group">Группа МИБ-2512</string>
+    <string name="app_name">ЛР4</string>
+    <string name="main_title">Главный экран</string>
+    <string name="second_title">Второй экран</string>
+    <string name="message">Введите текст</string>
+    <string name="extra_message">Дополнительный текст</string>
+    <string name="send">Передать на второй экран</string>
+    <string name="reply">Вернуть ответ</string>
+    <string name="no_message">Текст пока не получен</string>
+</resources>
